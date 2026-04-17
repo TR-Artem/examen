@@ -10,7 +10,8 @@ Backend API для управления задачами с JWT и Redis.
 - Docker
 
 ## Структура проекта
-(вставляешь дерево)
+<img width="335" height="590" alt="image" src="https://github.com/user-attachments/assets/6c6452f2-caa8-4d9d-b620-e8b3e4f72b87" />
+
 
 ## Запуск
 docker-compose up --build
