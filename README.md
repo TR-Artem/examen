@@ -24,8 +24,10 @@ docker-compose up --build
 
 ## Скриншоты
 
-<img width="1908" height="1097" alt="image" src="https://github.com/user-attachments/assets/216252cc-68ad-458c-a285-04f59b450961" />
+<img width="1846" height="942" alt="image" src="https://github.com/user-attachments/assets/82b7112c-072d-4326-a4c4-6c508386c59b" />
 
-<img width="1908" height="1097" alt="image" src="https://github.com/user-attachments/assets/6808b77e-99a8-41a9-9445-2fa1b386cdba" />
+<img width="1846" height="942" alt="image" src="https://github.com/user-attachments/assets/c8fde9e5-75d6-4db1-b2ab-d10d7cc957a0" />
 
-<img width="1908" height="1097" alt="image" src="https://github.com/user-attachments/assets/8ddd9d99-d62c-485a-85fb-18fb4b84a3b1" />
+<img width="1846" height="942" alt="image" src="https://github.com/user-attachments/assets/816bec64-00d0-4110-822d-57dbc6f39e0e" />
+
+
